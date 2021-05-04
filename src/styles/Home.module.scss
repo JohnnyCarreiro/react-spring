@@ -1,8 +1,31 @@
-.container {
-  min-height: 100vh;
-  padding: 0 0.5rem;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
+.app {
+  text-align: center;
+  padding: 2.5rem;
 }
+.button {
+  padding: 0.5rem;
+}
+
+.container {
+  padding: 2.5rem;
+  margin-top: 12.5rem;
+  min-height: 12.5rem;
+}
+
+.item {
+  width: 6.25rem;
+  height: 6.25rem;
+  margin: 0 auto;
+  background-color: var(--white);
+  border-radius: 0.5rem;
+  box-shadow: rgba(0, 0, 0, 0.2) 0px 8px 24px;
+}
+
+// .container {
+//   min-height: 100vh;
+//   padding: 0 0.5rem;
+//   display: flex;
+//   flex-direction: column;
+//   justify-content: center;
+//   align-items: center;
+// }
