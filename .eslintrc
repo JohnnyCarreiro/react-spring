@@ -65,6 +65,8 @@
         "@typescript-eslint/quotes": [
           2,
           "backtick",
+          "quotes",
+          "duble-quotes",
           {
             "avoidEscape": true
           }
